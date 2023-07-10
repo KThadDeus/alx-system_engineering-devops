@@ -1,1 +1,2 @@
+#!/bin/bash
 fixed . -type f -name ".js" delete
